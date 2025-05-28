@@ -1,20 +1,16 @@
-# biplove-tests-sounds
-Demonstration on Audio Analysis on Python
-
 # 🎧 Biplove Poudel – Audio Technologist in Progress
-
 Hello! I'm Biplove Poudel — a passionate music producer and aspiring audio test engineer currently pursuing a Bachelor’s in Music at Weber State University. Originally from Nepal 🇳🇵, I'm now based in Ogden, Utah 🇺🇸 and deeply interested in the intersection of audio, technology, and creativity.
 
-🎼 What I Do
+What I Do
 
-- 🎹 Produce music using Logic Pro X, FL Studio, and Adobe Audition  
-- 🛠️ Learn Python and C++ to build tools and scripts for audio testing  
-- 🧪 Experiment with audio drivers, wave file analysis, and DAW automation  
-- 🔊 Train my ears for detecting audio anomalies and sound quality issues  
-- 🧑‍🎓 Study audio theory, signal flow, and machine-level processing  
-- 📚 Exploring how creativity meets engineering — and aiming for roles at companies like Apple
+-  Produce music using Logic Pro X, FL Studio, and Adobe Audition  
+-  Learn Python and C++ to build tools and scripts for audio testing  
+-  Experiment with audio drivers, wave file analysis, and DAW automation  
+-  Train my ears for detecting audio anomalies and sound quality issues  
+-  Study audio theory, signal flow, and machine-level processing  
+-  Exploring how creativity meets engineering — and aiming for roles at companies like Apple
 
-🎯 Current Goals
+Current Goals
 
 - Build Python tools to analyze audio files and simulate QA workflows  
 - Learn basic DSP (Digital Signal Processing) and real-time audio concepts  
