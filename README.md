@@ -32,7 +32,8 @@ Hello! I'm Biplove Poudel — a passionate music producer and aspiring audio tes
 🤝 Let’s Connect
 
 - Email: [poudelbiplove123@gmail.com](mailto:poudelbiplove123@gmail.com)  
-- YouTube: [youtube.com/biplovepoudel](https://youtube.com/biplovepoudel)  
+- YouTube: [youtube.com/biplovepoudel](https://youtube.com/biplovepoudel)
+- Instagram [instagram.com/biplovepoudel](https://instagram.com/biplovepoudel)
 - Currently learning: Python, C++, Git, and audio system architecture  
 - Open to: Internships, mentorships, and creative collaborations
   
